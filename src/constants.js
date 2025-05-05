@@ -141,7 +141,7 @@ export const SkillsInfo = [
       title: "Job Portal",
       description:
         "The Job Portal is a web application where companies can register their profiles and post job openings. Once registered, companies can add job details such as title, description, location, and requirements. Users can browse these job listings, filter them based on categories or keywords, and apply directly through the portal. This system connects job seekers with employers, making the hiring process efficient and streamlined.",
-      image: "https://www.webmediatricks.com/uploaded_files/product/1703848338.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcv-wk60BVyLMXcK5a34NFs35r9qVbAZSig&s",
       tags: ["React JS","Node.js","MongoDB","Express","Cloudinary","multer","jwt"],
       github: "https://github.com/kaushalxluciferr/job-portal",
       webapp: "https://jobportal-frontend-rose.vercel.app/",
