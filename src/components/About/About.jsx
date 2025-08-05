@@ -47,7 +47,7 @@ with a passion for continuous learning and problem-solving in the tech domain.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1bQYZpndL-Dv7pJVjsOopnXSupGD_MhuN/view"
+            href="https://drive.google.com/file/d/18xIfkgzxlj-kUVtQndbNOV-8RLXJ_Rho/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-2 text-lg font-bold transition duration-300 transform hover:scale-105"

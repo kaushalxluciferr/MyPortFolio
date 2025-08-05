@@ -59,6 +59,7 @@ export const SkillsInfo = [
   {
     title: 'Frontend',
     skills: [
+          { name: 'React-Native', logo: reactjsLogo },
       { name: 'HTML', logo: htmlLogo },
       { name: 'CSS', logo: cssLogo },
       { name: 'JavaScript', logo: javascriptLogo },
@@ -67,6 +68,7 @@ export const SkillsInfo = [
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'Material UI', logo: materialuiLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
+  
     ],
   },
   {
@@ -159,13 +161,13 @@ export const SkillsInfo = [
     
     {
       id: 5,
-      title: "Fullstack Ecommerce Website",
+      title: "Fullstack SkillShare Mobile-App",
       description:
-        "An eCommerce system is a web application that allows users to browse products, add them to a cart, and make purchases online. Admins or sellers can manage products, update stock, and handle orders. Users can sign up, log in, view product details, place orders, and make payments. It simplifies online shopping and provides a smooth buying and selling experience.",
+        "Mobile version of my SkillShare Project ",
       image: "https://www.businessnewsdaily.com/_next/image?url=https%3A%2F%2Fimages.businessnewsdaily.com%2Fapp%2Fuploads%2F2022%2F04%2F04073619%2Fhow-ecommerce-works.png&w=1200&q=75",
-      tags: ["React JS","Node.js","MongoDB","Express","Cloudinary","multer","jwt"],
-      github: "https://github.com/kaushalxluciferr/MERN-ecommerce",
-      webapp: "https://mern-ecommerce-lemon.vercel.app/",
+      tags: ["React Native","Expo","Node.js","MongoDB","Express","Cloudinary","multer","jwt"],
+      github: "https://github.com/kaushalxluciferr/skillshare-React-Native",
+      webapp: "https://drive.google.com/file/d/1W_SdhGjdivoTY_hjiGNfFW_CGUReUNu9/view?usp=drive_link",
     }
   ]; 
 
